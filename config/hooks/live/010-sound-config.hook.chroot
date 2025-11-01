@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+
+# Ustawienia głośności i automatyczne unmute
+amixer sset Master 80% unmute || true
+amixer sset PCM 80% unmute || true
