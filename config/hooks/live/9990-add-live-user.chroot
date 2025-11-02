@@ -1,0 +1,3 @@
+#!/bin/bash
+# Tworzenie użytkownika "user" w systemie live
+# Jestem debilem, i zapomniałem, że debian ma własne hasło live-user...

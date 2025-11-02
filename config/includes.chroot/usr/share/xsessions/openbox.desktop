@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Openbox
+Comment=Openbox Session
+Exec=openbox-session
+Type=Application

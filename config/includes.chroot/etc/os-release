@@ -1,7 +1,7 @@
 NAME="MTOS X"
-VERSION="1.0b"
+VERSION="1.0b2"
 ID=mtos
-PRETTY_NAME="MTOS X 1.0 Public beta"
-VERSION_ID="1.0b"
+PRETTY_NAME="MTOS X 1.0 Public beta 2"
+VERSION_ID="1.0b2"
 HOME_URL="https://mihot7.github.io"
 SUPPORT_URL="mailto:zixmichal@gmail.com"

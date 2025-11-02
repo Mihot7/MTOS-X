@@ -1,8 +1,19 @@
-xorg
-xserver-xorg
-xserver-xorg-core
-xinit
-lightdm
+#xorg
+#xserver-xorg
+#xserver-xorg-core
+#xinit
+#lightdm
 nano
-fvwm
+#fvwm
+#pcmanfm
+xorg
+lightdm
+lightdm-gtk-greeter
+openbox
+plank
+lxappearance
+obconf
 pcmanfm
+xfce4-terminal
+# nitrogen No longer needed.
+tint2

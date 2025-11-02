@@ -2,3 +2,5 @@ vim
 curl
 htop
 sudo
+network-manager
+network-manager-gnome

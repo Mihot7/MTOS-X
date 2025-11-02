@@ -1,4 +1,13 @@
+volumeicon-alsa
 pipewire
 pipewire-audio
-wireplumber
 pavucontrol
+policykit-1
+gvfs
+gvfs-backends
+alsa-utils
+alsa-ucm-conf
+pipewire
+pipewire-alsa
+pipewire-pulse
+wireplumber

@@ -1,0 +1,21 @@
+# Tapeta
+# nitrogen --restore &
+# Nie używam już nitrogen, bo pcmanfm obsługuje tapety
+
+# Pulpit type of shit
+mkdir -p "$HOME/Desktop"
+pcmanfm --desktop --profile LXDE &
+
+# Dock
+plank &
+tint2 &
+
+# Ikonka głośności
+volumeicon &
+
+# Menedżer sieci
+nm-applet &
+
+# Dźwięk (PipeWire)
+pipewire &
+pipewire-pulse &

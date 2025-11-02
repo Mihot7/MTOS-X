@@ -49,7 +49,7 @@ LB_INITRAMFS_COMPRESSION="gzip"
 LB_INITSYSTEM="systemd"
 
 # Set distribution mode
-LB_MODE="custom"
+LB_MODE="debian"
 
 # Set system type
 LB_SYSTEM="live"
@@ -95,8 +95,8 @@ LB_UTC_TIME="false"
 
 # Enable quiet
 # If set here, overrides the command line option
-QUIET="false"
+#_QUIET="false"
 
 # Enable verbose
 # If set here, overrides the command line option
-VERBOSE="true"
+#_VERBOSE="false"
