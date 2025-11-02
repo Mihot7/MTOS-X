@@ -1,6 +1,0 @@
-f8f7946ef4e9fb8760b774379b3512c0  usr/lib/x86_64-linux-gnu/systemd/libsystemd-core-252.so
-374a7b8453717b51e4bd2c1b06bb4e6b  usr/lib/x86_64-linux-gnu/systemd/libsystemd-shared-252.so
-6eb135b4151ac6d07c1600ef3beafcd4  usr/share/doc/libsystemd-shared/NEWS.Debian.gz
-57a2dd6dc9ad81b7579084dd69e0ca6e  usr/share/doc/libsystemd-shared/changelog.Debian.gz
-b16a86fb841b001b52a5c5caccf526c2  usr/share/doc/libsystemd-shared/copyright
-c9a3d70ca723577ab38bea04769037ac  usr/share/lintian/overrides/libsystemd-shared
